@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shreejeetsahay
-- 👀 I’m interested in Machine Learning and Deep Learning.
-- 🌱 I’m currently learning ML/DL skills.
-- 💞️ I’m looking to collaborate on Research Projects.
+- 👀 I’m interested in Web development and data-related skills.
 - 📫 How to reach me- Email at ssahay.official@gmail.com
 
 <!---

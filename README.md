@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreejeetsahay
-- 👀 I’m interested in Web development and data-related skills.
+- 👀 I’m interested in Data Engineering.
 - 📫 How to reach me- Email at ssahay.official@gmail.com
 
 <!---
